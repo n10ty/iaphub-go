@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/rentaapp/iaphub-go"
+	"github.com/n10ty/iaphub-go"
 	"io/ioutil"
 	"net/http"
 	"reflect"

@@ -3,7 +3,7 @@ package iaphub_test
 import (
 	"bytes"
 	"fmt"
-	"github.com/rentaapp/iaphub-go"
+	"github.com/n10ty/iaphub-go"
 	"io/ioutil"
 	"net/http"
 	"reflect"
