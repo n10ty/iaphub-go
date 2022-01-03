@@ -16,6 +16,10 @@ import (
 )
 
 func main() {
+    
+        iaphubSecret := <Your secret>
+        iaphubAppId := <Your app id>
+
 	c, err := iaphub.NewClient(iaphubSecret, iaphubAppId)
 	if err != nil {
 		fmt.Println(err)
@@ -35,6 +39,13 @@ func main() {
 	fmt.Println(user)
 }
 ```
+
+### Custom environment
+
+```go
+c, err := iaphub.NewClient(iaphubSecret, iaphubAppId, iaphub.UseEnv("sandbox"))
+```
+
 
 ### Supported methods
 
