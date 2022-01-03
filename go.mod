@@ -1,3 +1,3 @@
-module github.com/rentaapp/iaphub-go
+module github.com/n10ty/iaphub-go
 
 go 1.16
