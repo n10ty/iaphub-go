@@ -4,6 +4,7 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/n10ty/iaphub-go)](https://goreportcard.com/report/github.com/n10ty/iaphub-go)
 [![GoDoc](https://godoc.org/https://godoc.org/github.com/n10ty/iaphub-go?status.svg)](https://godoc.org/github.com/n10ty/iaphub-go)
+[![Build](https://github.com/n10ty/iaphub-go/actions/workflows/test-build.yml/badge.svg?branch=master)](https://github.com/n10ty/iaphub-go/actions/workflows/test-build.yml)
 
 ## Installation
 
